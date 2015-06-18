@@ -6,7 +6,7 @@ shish
 
 Mercury 
 
-Venus 
+Venus - this is 
 
 Earth - this is where I live .. 
 
